@@ -2,7 +2,7 @@
 
 ## Background
 
-The idea of contributing this repo is to document my practice and also help beginers to get started with Swift. I will keep at least try to update the repo whilst learning new versions of Swift. Contribution from communities is more than welcome.
+The idea of this repo is to document my practice and also help beginers to get started with Swift. I will keep at least try to update the repo whilst learning new versions of Swift. Contribution from communities is more than welcome.
 
 ## Build Environment
 
